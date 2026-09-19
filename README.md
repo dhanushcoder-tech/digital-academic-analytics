@@ -5,7 +5,7 @@
 **Members:**
 - Srivatsa Kamble — 20231CSE0257
 - Kishore S V — 20231CSE0260
-- Mohan A — 20231CSE0273
+- Dhanush M - 20231CSE0262
 
 **Guide:** Nayeem Akhtar Sholapur
 
